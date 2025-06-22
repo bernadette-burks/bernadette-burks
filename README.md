@@ -16,9 +16,3 @@ MSc in Artificial Intelligence, New England College - In Progress, 2026<br>
 ### Platforms & Tools
 [![Platforms & Tools](https://skillicons.dev/icons?i=aws,azure,docker,github,kubernetes,linux,terraform,ubuntu,vscode)](https://skillicons.dev)
 
-
-### Links
-<a href="https://bernadette-burks.github.io/">Website</a><br>
-<a href="https://www.linkedin.com/in/bernadetteburks/">LinkedIn</a><br>
-<a href="https://www.kaggle.com/bernadetteburks">Kaggle</a><br>
-
