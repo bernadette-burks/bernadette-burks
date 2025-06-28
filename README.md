@@ -1,7 +1,7 @@
 
 ## Hi, there! 👋
 
-My name is Bernadette and I'm a data explorer, artist, and full-time grad student currently building the skills of my dream job! <p>
+My name is Bernadette and I'm a techie, artist, and full-time grad student currently building the skills of my dream job! <p>
 
 ### Education
 
