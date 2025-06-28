@@ -1,9 +1,7 @@
 
-## Hey, there! Welcome to my <i>About Me</i> section.. 👋
+## Hi, there! 👋
 
 My name is Bernadette and I'm a data explorer, artist, and full-time grad student currently building the skills of my dream job! <p>
-<img src="https://i.ibb.co/3mVtx9fr/pexels-vie-studio-4439410.jpg" alt="pexels-vie-studio-4439410" border="0">
-
 
 ### Education
 
