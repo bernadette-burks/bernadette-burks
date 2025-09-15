@@ -1,7 +1,7 @@
 
 ## Hi, there! 👋
 
-My name is Bernadette and I'm a techie, artist, and cat lady extraordinaire currently building the skills of my dream job! <p>
+My name is Bernadette and I'm a techie, artist, and cat lady extraordinaire currently building the skills of my dream job! I enjoy coding and creating around a wide variety of human interest topics, such as healthcare, mental health, financial equity, the environment, and more. ❤️‍🩹 <p>
 
 ### Education
 
