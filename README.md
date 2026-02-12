@@ -9,10 +9,5 @@ MSc in Artificial Intelligence, New England College - In Progress, 2026<br>
 MSc in Data Science & Analytics, New England College - 2025<br>
 BFA in Fine Arts/Painting, Maine College of Art & Design - 2015<br>
 
-### Languages & Frameworks
-[![Languages & Frameworks](https://skillicons.dev/icons?i=r,py,html,css,bootstrap,mysql,powershell)](https://skillicons.dev)
-
-
-### Platforms & Tools
-[![Platforms & Tools](https://skillicons.dev/icons?i=aws,azure,docker,github,kubernetes,linux,terraform,ubuntu,vscode)](https://skillicons.dev)
-
+### Languages & Platforms
+[![Languages & Frameworks](https://skillicons.dev/icons?i=py,sklearn,powershell,r,github,md,vscode,anaconda,html,css,bootstrap,mysql&theme=light)](https://skillicons.dev)
