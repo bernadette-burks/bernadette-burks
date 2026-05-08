@@ -1,7 +1,7 @@
 
 ## Hi, there! 👋
 
-My name is Bernadette and I'm a techie, artist, and cat lady extraordinaire currently building the skills of my dream job! I enjoy coding and creating around a wide variety of human interest topics, such as healthcare, mental health, financial equity, the environment, and more. ❤️‍🩹  I look forward to learning from others and connecting on all aspects of data science and development!<p>
+My name is Bernadette and I'm a science geek, artist, mom, and cat lady extraordinaire currently building the skills of my dream job! I enjoy coding and creating around a wide variety of human interest topics. I look forward to learning from others and connecting on all aspects of data science and development!<p>
 
 ### Education
 
