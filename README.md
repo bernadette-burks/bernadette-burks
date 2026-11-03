@@ -5,7 +5,7 @@ My name is Bernadette and I'm a science geek, artist, mom, and cat lady extraord
 
 ### Education
 
-MSc in Artificial Intelligence, New England College - In Progress, 2026<br>
+MSc in Artificial Intelligence, New England College - In Progress, 2027<br>
 MSc in Data Science & Analytics, New England College - 2025<br>
 BFA in Fine Arts/Painting, Maine College of Art & Design - 2015<br>
 
